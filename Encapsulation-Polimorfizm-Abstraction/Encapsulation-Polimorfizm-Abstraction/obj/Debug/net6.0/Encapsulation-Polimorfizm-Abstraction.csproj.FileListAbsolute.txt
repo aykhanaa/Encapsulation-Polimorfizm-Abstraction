@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.exe
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.deps.json
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.dll
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.pdb
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.dll
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\refint\Encapsulation-Polimorfizm-Abstraction.dll
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.pdb
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstraction.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\Encapsulation-Polimorfizm-Abstraction\obj\Debug\net6.0\ref\Encapsulation-Polimorfizm-Abstraction.dll
